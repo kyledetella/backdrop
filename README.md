@@ -29,9 +29,9 @@ You should pass in your video types and image fallbacks as such:
   // Your media sources (video & img)
   src: {
    video: {
-    ogg: 'path/to/video.ogg,
-    webm: 'path/to/video.webm,
-    mp4: 'path/to/video.mp4,
+    ogg: 'path/to/video.ogg',
+    webm: 'path/to/video.webm',
+    mp4: 'path/to/video.mp4',
    },
    image: '/path/to/image'
   }
