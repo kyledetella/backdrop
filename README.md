@@ -44,5 +44,6 @@ You should pass in your video types and image fallbacks as such:
 
 ###TODO
  + Add fallback to image if video is not passed in or returns an error
+ + Write a rock-solid feature support method for image fallbacks on non-autoplay devices)
  + Add play/pause support (low priority)
  + Add playlist support
