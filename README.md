@@ -1,5 +1,5 @@
-Kino
-====
+Backdrop
+========
 
 Video manager with image fallbacks
 
@@ -11,16 +11,16 @@ Video manager with image fallbacks
   - [`lodash.js`](http://lodash.com) – Used for utility methods and operations
  
 ####Setup
-Assuming you already have a DOM structure ready (see [example](/example/index.html)), you can instantiate Kino via:
+Assuming you already have a DOM structure ready (see [example](/example/index.html)), you can instantiate Backdrop via:
 
 ```js
- var kino = new Kino();
+ var backdrop = new Backdrop();
 ```
 
 You should pass in your video types and image fallbacks as such:
 
 ```js
- var kino = new Kino({
+ var backdrop = new Backdrop({
   
   // DOM element to render video/image into
   stage: document.getElementById('my_stage'),
