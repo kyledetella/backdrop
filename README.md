@@ -6,7 +6,6 @@ Video manager with image fallbacks
 ###Usage
 
 ####Dependencies
-Game Grid carries two hard dependencies: 
   - [`Modernizr.js`](http://modernizr.com/) – Used for video support detection `Modernizr.Video`
   
   - [`lodash.js`](http://lodash.com) – Used for utility methods and operations
